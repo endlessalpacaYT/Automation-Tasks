@@ -1,0 +1,7 @@
+D:\Visual Studio 2022\Automation tasks\Automation tasks\bin\Debug\Automation tasks.exe.config
+D:\Visual Studio 2022\Automation tasks\Automation tasks\bin\Debug\Automation tasks.exe
+D:\Visual Studio 2022\Automation tasks\Automation tasks\bin\Debug\Automation tasks.pdb
+D:\Visual Studio 2022\Automation tasks\Automation tasks\obj\Debug\Automation tasks.csproj.AssemblyReference.cache
+D:\Visual Studio 2022\Automation tasks\Automation tasks\obj\Debug\Automation tasks.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2022\Automation tasks\Automation tasks\obj\Debug\Automation tasks.exe
+D:\Visual Studio 2022\Automation tasks\Automation tasks\obj\Debug\Automation tasks.pdb
